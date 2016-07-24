@@ -12,6 +12,6 @@ public class Trangle {
         this. name = name;
     }
     public void output(){
-        System.out.println(sides+""+name);
+        System.out.println(sides+"side---------"+name);
     }
 }
